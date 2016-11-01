@@ -3,4 +3,5 @@
 
 #参考资料
 [微信小程序开发教程-从零开始](http://www.jianshu.com/p/1aa86ae832c0)
+
 [oopsguy/WechatSmallApps](https://github.com/oopsguy/WechatSmallApps)
